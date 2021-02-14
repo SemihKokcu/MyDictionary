@@ -1,0 +1,13 @@
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.exe
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.deps.json
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.runtimeconfig.json
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.runtimeconfig.dev.json
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.dll
+C:\Users\lama_\source\repos\lesson1\MyDictonary\bin\Debug\netcoreapp3.1\MyDictonary.pdb
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.AssemblyInfoInputs.cache
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.AssemblyInfo.cs
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.csproj.CoreCompileInputs.cache
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.dll
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.pdb
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.genruntimeconfig.cache
+C:\Users\lama_\source\repos\lesson1\MyDictonary\obj\Debug\netcoreapp3.1\MyDictonary.csprojAssemblyReference.cache
